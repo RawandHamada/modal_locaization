@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "403665077901",
+    "project_id": "modal-48439",
+    "storage_bucket": "modal-48439.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403665077901:android:201f6ad6dfe15579ccc4c4",
+        "android_client_info": {
+          "package_name": "com.modal.rawand.modal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403665077901-ii7bvss13iohjjm7200ha5359rlkolk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf6aCLbjajGRE6xE52Rm4RvgImMwXqNoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403665077901-ii7bvss13iohjjm7200ha5359rlkolk8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "403665077901-0v1m0luaj4qv8cvqu7gvfbo1fdobffea.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.modal.rawand.modal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
